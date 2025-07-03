@@ -15,8 +15,12 @@ the full scale lunar integration of the launcher. Does not take into account fac
 and the vaccum of space. Provides us with simulated diagnostics of the launcher such as capacitor voltage curves, 
 exit velocity of the projectile, current through the coils, and magnetic field properties.
 
+Supporting Files: ConceptualBzField, ConceptualBrField
+
 multistage_subscale - MATLAB script that simulates the magnetic field effects and other physical aspects of the subscale
 integration of the launcher. Does not take intop account factors such as thermal properties, and the air drag on the
 projectile. Provides us with simulated diagnostics of the launcher such as capactior voltage curves, exit velocity of the
 projectile, current through the coils, and magnetic field properties. Simulation can be validated by comparing simulation output
 values with the output diagnostics of the subscale demonstration.
+
+Supporting Files: SubscaleBzField, SubscaleBrField, INPUTPARAMETERS
