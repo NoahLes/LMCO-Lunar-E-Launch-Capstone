@@ -1,0 +1,18 @@
+INPUTPARAMETERS
+Variable Description,"Value (in Base SI Units; meters, ohms, volts, kg, etc.) "
+Number of Coil Windings,38
+Coil Wire Diameter,0.00205
+Number of Layers in the Coil,2
+Armature Inner Radius,0.0083
+Armature Length,0.0391
+Armature Wire Diameter,0.00129
+Number of Armature Windings,90
+Resistance of Armature,0.049
+Mass of the Projectile,0.0275
+Initial Position of the front of the armature measured from the end of the  first coil,0.075
+Number of Layers in the Armature,2
+Resistance of the Drive Circuit,0.1
+Capacitance of the Drive Circuit,0.0052
+Initial Voltage of the Drive Circuit,450
+Distance between coils,0.04
+Number of Stages ,8
